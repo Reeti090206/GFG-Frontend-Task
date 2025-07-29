@@ -253,19 +253,26 @@ nav a {
   border-bottom: 1px solid #444;
   padding-bottom: 0.5rem;
 }
+.footer-col {
+  text-align: center;
+}
+
 
 .footer-col ul {
   list-style: none;
+   padding: 0;
 }
 
 .footer-col ul li {
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 
 .footer-col ul li a {
   color: #222;
   text-decoration: none;
   font-size: 0.95rem;
+  text-align: center;
 }
 
 .footer-col ul li a:hover {
